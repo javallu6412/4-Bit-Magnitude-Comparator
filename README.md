@@ -45,30 +45,36 @@ The design was implemented using PMOS and NMOS transistor-level logic and simula
 
 ### Circuit Diagram
 
-![Circuit](images/circuit-diagram.png)
+![Circuit](assets/circuit.png)
 
 ### Truth Table
 
-![Truth Table](images/truth-table.png)
+![Truth Table](assets/truth_table.png)
 
 ### PMOS and NMOS Implementation
 
-![Cadence Design](images/cadence-design.png)
+![Cadence Design](assets/cadence_sim.png)
 
 ### Simulation Output
 
-![Output](results/simulation-output.png)
+![Output](assets/output.png)
 
 ---
 
 ## Logic Gates Implemented
 
 - Inverter
+  ![Output](assets/inveter.png)
 - 2 Input AND
+  ![Output](assets/2_AND.png)
 - 2 Input OR
+  ![Output](assets/2_OR.png)
 - 3 Input AND
+  ![Output](assets/3_AND.png)
 - 4 Input AND
+  ![Output](assets/4_AND.png)
 - 4 Input OR
+  ![Output](assets/4_OR.png)
 
 ---
 
