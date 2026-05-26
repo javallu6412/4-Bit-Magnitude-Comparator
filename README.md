@@ -64,7 +64,7 @@ The design was implemented using PMOS and NMOS transistor-level logic and simula
 ## Logic Gates Implemented
 
 - Inverter
-  ![Output](assets/inveter.png)
+  ![Output](assets/inverter.png)
 - 2 Input AND
   ![Output](assets/2_AND.png)
 - 2 Input OR
