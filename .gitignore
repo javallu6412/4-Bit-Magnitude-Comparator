@@ -1,0 +1,51 @@
+# Cadence Virtuoso Generated Files
+*.log
+*.tmp
+*.bak
+*.swp
+*.cdslck
+
+# Simulation Files
+psf/
+simulation/
+*.raw
+*.trn
+*.ac
+*.dc
+*.stb
+
+# Netlists
+*.net
+*.spi
+*.sp
+*.cir
+
+# Layout & Extraction Files
+*.gds
+*.lef
+*.mag
+*.ext
+
+# Backup Files
+*.save
+*.old
+*.orig
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python Cache (if scripts used)
+__pycache__/
+*.pyc
+
+# Temporary Files
+temp/
+tmp/
+
+# Output Files
+output/
+results/
